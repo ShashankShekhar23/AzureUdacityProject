@@ -12,6 +12,8 @@ This is a repo for Udacity Azure DevOps Project
 `ssh-keygen -t rsa`
 * Upload ssh-keys to Github
 * Clone Github repo through Azure Cloud Shell
+
+`git clone <SSH-REPO-LINK>`
 * Create scaffolding for project (if not created)
   * Makefile
   ```
