@@ -8,6 +8,8 @@ This is a repo for Udacity Azure DevOps Project
 * Create a Github Repo(if not created)
 * Launch Azure Cloud Shell via Azure Portal
 * Create ssh-keys in Azure Cloud Shell
+
+`ssh-keygen -t rsa`
 * Upload ssh-keys to Github
 * Clone Github repo through Azure Cloud Shell
 * Create scaffolding for project (if not created)
