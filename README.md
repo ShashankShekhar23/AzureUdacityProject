@@ -4,6 +4,10 @@ This is a repo for Udacity Azure DevOps Project
 
 [![Python application test with Github Actions](https://github.com/ShashankShekhar23/AzureUdacityProject/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/ShashankShekhar23/AzureUdacityProject/actions/workflows/pythonapp.yml)
 
+# Architectural Diagram #
+![AD_AzureDevOps](https://user-images.githubusercontent.com/86247520/126953666-579a7cb5-6bb2-4ca6-8016-36461f7ef94d.PNG)
+
+
 # Steps to run this project #
 * Create a Github Repo(if not created)
 * Launch Azure Cloud Shell via Azure Portal
